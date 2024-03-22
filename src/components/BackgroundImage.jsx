@@ -1,9 +1,6 @@
 function BackgroundImage() {
     return (
-        <>
-
         <section className="bg"/>
-        </>
     )
 }
 
